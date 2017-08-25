@@ -1,0 +1,27 @@
+{
+  "name": "jest-test",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kidd3/jest-test"
+  },
+  "author": {
+    "name": "kidd3",
+    "email": ""
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kidd3/jest-test/issues"
+  },
+  "module": "jest-test.js",
+  "typings": "jest-test.d.js",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  },
+  "dependencies": {}
+}
